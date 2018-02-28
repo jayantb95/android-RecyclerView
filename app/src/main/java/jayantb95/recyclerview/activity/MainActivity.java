@@ -1,4 +1,4 @@
-package jayantb95.recyclerview;
+package jayantb95.recyclerview.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -11,6 +11,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
+import jayantb95.recyclerview.R;
 import jayantb95.recyclerview.adapter.MoviesAdapter;
 import jayantb95.recyclerview.adapter.RecyclerTouchListener;
 import jayantb95.recyclerview.dataModel.MovieModel;
